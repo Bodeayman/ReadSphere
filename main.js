@@ -1,3 +1,6 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize reading challenge data
     const challengeData = {
@@ -33,4 +36,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Initialize the progress
     updateProgress();
+
+    // Initialize all carousels with slower transition
+    const carousels = document.querySelectorAll('.carousel');
+    carousels.forEach(carousel => {
+        new bootstrap.Carousel(carousel, {
+            interval: false, // Disable auto-sliding
+            touch: true, // Enable touch swiping
+            wrap: true, // Enable continuous loop
+            keyboard: true, // Enable keyboard controls
+            pause: 'hover' // Pause on mouse enter
+        });
+    });
 });

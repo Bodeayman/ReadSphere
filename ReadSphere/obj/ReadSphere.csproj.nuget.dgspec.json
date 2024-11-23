@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bode\\Database Project\\ReadSphere\\ReadSphere.csproj": {}
+    "C:\\Bode\\Database Project\\Readsphere\\ReadSphere.csproj": {}
   },
   "projects": {
-    "C:\\Bode\\Database Project\\ReadSphere\\ReadSphere.csproj": {
+    "C:\\Bode\\Database Project\\Readsphere\\ReadSphere.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bode\\Database Project\\ReadSphere\\ReadSphere.csproj",
+        "projectUniqueName": "C:\\Bode\\Database Project\\Readsphere\\ReadSphere.csproj",
         "projectName": "ReadSphere",
-        "projectPath": "C:\\Bode\\Database Project\\ReadSphere\\ReadSphere.csproj",
+        "projectPath": "C:\\Bode\\Database Project\\Readsphere\\ReadSphere.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "C:\\Bode\\Database Project\\ReadSphere\\obj\\",
+        "outputPath": "C:\\Bode\\Database Project\\Readsphere\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,11 +34,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Razor.Runtime": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

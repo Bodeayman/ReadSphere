@@ -132,26 +132,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abdul\\.nuget\\packages\\": {}
+    "C:\\Users\\Osama_Ashraf\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Bode\\Database Project\\ReadSphere\\ReadSphere.csproj",
+      "projectUniqueName": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\ReadSphere.csproj",
       "projectName": "ReadSphere",
-      "projectPath": "c:\\Bode\\Database Project\\ReadSphere\\ReadSphere.csproj",
-      "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-      "outputPath": "c:\\Bode\\Database Project\\ReadSphere\\obj\\",
+      "projectPath": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\ReadSphere.csproj",
+      "packagesPath": "C:\\Users\\Osama_Ashraf\\.nuget\\packages\\",
+      "outputPath": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Osama_Ashraf\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -199,7 +197,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,19 @@
                     <button>🔍</button>
                 </div>
             </div>
-            <h1>Welcome Again ,@Model.Name ,Your Age is @Model.Age</h1>
+            @{
+                if (Request.Cookies["User"] == null)
+                {
+                    <h1>Please sign in</h1>
+
+
+                }
+                else
+                {
+                    <h1>Welcome Again @Request.Cookies["User"]</h1>
+
+                }
+            }
             <!-- Carousel Section -->
             <div class="carousel-section">
                 <div class="carousel-container">

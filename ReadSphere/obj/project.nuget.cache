@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "p58CqS9yH/g=",
+  "dgSpecHash": "30Y5OlcTJi0=",
   "success": true,
-  "projectFilePath": "C:\\Bode\\Database Project\\Readsphere\\ReadSphere.csproj",
+  "projectFilePath": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\ReadSphere.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
-    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
-    "C:\\Users\\abdul\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+    "C:\\Users\\Osama_Ashraf\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Osama_Ashraf\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
+    "C:\\Users\\Osama_Ashraf\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\Osama_Ashraf\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

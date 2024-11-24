@@ -29,3 +29,34 @@ C:\Bode\Database Project\Readsphere\obj\Debug\net8.0\refint\ReadSphere.dll
 C:\Bode\Database Project\Readsphere\obj\Debug\net8.0\ReadSphere.pdb
 C:\Bode\Database Project\Readsphere\obj\Debug\net8.0\ReadSphere.genruntimeconfig.cache
 C:\Bode\Database Project\Readsphere\obj\Debug\net8.0\ref\ReadSphere.dll
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\appsettings.Development.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\appsettings.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\ReadSphere.staticwebassets.runtime.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\ReadSphere.exe
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\ReadSphere.deps.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\ReadSphere.runtimeconfig.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\ReadSphere.dll
+D:\[01] Projects\[05] ReadSphere\ReadSphere\bin\Debug\net8.0\ReadSphere.pdb
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.GeneratedMSBuildEditorConfig.editorconfig
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.AssemblyInfoInputs.cache
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.AssemblyInfo.cs
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.csproj.CoreCompileInputs.cache
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.MvcApplicationPartsAssemblyInfo.cache
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.RazorAssemblyInfo.cache
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.RazorAssemblyInfo.cs
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.sourcelink.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets.build.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets.development.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets\msbuild.ReadSphere.Microsoft.AspNetCore.StaticWebAssets.props
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets\msbuild.build.ReadSphere.props
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReadSphere.props
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReadSphere.props
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\staticwebassets.pack.json
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\scopedcss\bundle\ReadSphere.styles.css
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\scopedcss\projectbundle\ReadSphere.bundle.scp.css
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.dll
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\refint\ReadSphere.dll
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.pdb
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ReadSphere.genruntimeconfig.cache
+D:\[01] Projects\[05] ReadSphere\ReadSphere\obj\Debug\net8.0\ref\ReadSphere.dll

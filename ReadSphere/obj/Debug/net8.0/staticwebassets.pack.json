@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
+      "Id": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
       "Id": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\js\\homeCounter.js",
       "PackagePath": "staticwebassets\\js\\homeCounter.js"
+    },
+    {
+      "Id": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\js\\register.js",
+      "PackagePath": "staticwebassets\\js\\register.js"
     },
     {
       "Id": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\js\\site.js",

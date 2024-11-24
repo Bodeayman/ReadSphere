@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mm+JoCXjWuHtb/I8H8ew5zJYpN7fleG3FOc/1YTnDCs=",
+  "Hash": "cKjR+lqWbUuSuH7LLRRzBW0B3NHnLzs7wgtAvxe4vXg=",
   "Source": "ReadSphere",
   "BasePath": "_content/ReadSphere",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
+      "Identity": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\css\\register.css",
+      "SourceId": "ReadSphere",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\",
+      "BasePath": "_content/ReadSphere",
+      "RelativePath": "css/register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
       "Identity": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\css\\site.css",
@@ -148,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\homeCounter.js"
+    },
+    {
+      "Identity": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\js\\register.js",
+      "SourceId": "ReadSphere",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\",
+      "BasePath": "_content/ReadSphere",
+      "RelativePath": "js/register.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\register.js"
     },
     {
       "Identity": "D:\\[01] Projects\\[05] ReadSphere\\ReadSphere\\wwwroot\\js\\site.js",

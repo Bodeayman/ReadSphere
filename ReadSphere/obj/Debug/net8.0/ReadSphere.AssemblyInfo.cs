@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadSphere")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+775dce0db7456679a2f5cd102483ad8b09ecadeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+577435d90d8dacfd7993448fe383f50769296f73")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadSphere")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadSphere")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
